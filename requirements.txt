@@ -1,0 +1,12 @@
+Pillow
+numpy
+opencv-python
+rapidocr-onnxruntime
+onnxruntime
+rapidfuzz
+xlrd
+xlwt
+openpyxl
+python-docx
+legacy-doc
+pyinstaller
